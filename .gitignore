@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Project Specific
+chroma_db/
+memory_log.json
+memory_log.json.bak
+search_results.txt
+all_orion_files.txt
+all_logos.txt
+website_files.txt
+logo_paths.txt
+logo_absolute_path.txt
+full_logo_path.txt
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+build_log.txt
+dist_debug.txt
+
+# Local tools / Logs
+*.log
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+brain/
