@@ -10,5 +10,9 @@
     ],
     "capabilities": [
         "context_provider"
+    ],
+    "dependencies": [
+        "chromadb",
+        "sentence-transformers"
     ]
 }
