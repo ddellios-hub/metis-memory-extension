@@ -12,3 +12,14 @@ High-Speed Retrieval: Optimized with HNSW indexing and Cosine similarity, achiev
 Language-Aware Intelligence: Features adaptive top-k retrieval based on query language detection (English/Greek).
 
 Privacy-Centric: Uses local sentence-transformers for embeddings, ensuring no sensitive code leaves your machine.
+---
+
+## ⚖️ Disclaimer & Status
+
+**Project Status:** This project is currently in **Active Development** by **Orion Intelligence**. Features and API structures may evolve rapidly.
+
+**Usage:** This software is provided "as is", without warranty of any kind. It is designed to run locally to ensure maximum data privacy. While it significantly improves AI agent recall, users are responsible for managing their own local data security.
+
+**Contributions:** We welcome feedback and contributions! If you encounter any bugs or have suggestions for new features, please open an issue or submit a pull request.
+
+**Contact:** Developed by **Dimitris** (Orion Intelligence). For business inquiries or custom AI implementations, feel free to reach out.
