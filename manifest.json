@@ -1,0 +1,14 @@
+{
+    "name": "Metis Persistent Memory",
+    "description": "Long-term memory module for Metis Intelligence, providing persistence across sessions.",
+    "author": "Orion Intelligence",
+    "version": "1.0.0",
+    "entry_point": "extension_entry.py",
+    "hooks": [
+        "on_session_start",
+        "provide_context"
+    ],
+    "capabilities": [
+        "context_provider"
+    ]
+}
